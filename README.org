@@ -1,0 +1,10 @@
+* portable-condition-system
+
+A portable Common Lisp condition system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/portable-condition-system.git   |
+| commit  | 1307ec1  |
+| systems | portable-condition-system |
+|---------+-------------------------------------------|
+
